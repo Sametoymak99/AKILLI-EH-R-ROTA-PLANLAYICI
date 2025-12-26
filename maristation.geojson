@@ -1,0 +1,986 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "deniz_iskele_verisi",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0903133276, 41.134311015 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Beykoz ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9768197577, 41.0167315388 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Sirkeci İDO Feribot"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0804399779, 41.1074643711 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Çubuklu ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.7179401114, 40.9710931244 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Avcılar İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0751996679, 41.1816276668 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Rumeli Kavağı ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0648688933, 41.0796798856 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Küçüksu ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0879039343, 41.1733962313 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Anadolu Kavağı ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0185878591, 40.990995548 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kadıköy İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0073618374, 41.0410405055 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Beşiktaş ŞH. (Tarihi)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0604822463, 41.113510082 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "İstinye İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9490991611, 41.0405834165 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Hasköy ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9762631593, 41.0171141477 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Eminönü ŞH. (Katip Çelebi)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0227098869, 40.9929933787 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kadıköy ŞH. (Yeni)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0297691641, 41.0369024446 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kuzguncuk ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0931989132, 41.1168170637 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Paşabahçe ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9661732234, 41.0303755474 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kasımpaşa ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9493324695, 41.0348382595 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Balat ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0825008834, 41.1085290561 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Çubuklu ŞH. (Arabalı Vapur)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9740817119, 41.0179947227 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Eminönü ŞH. (Hazerfan Çelebi)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0573095162, 41.1134816974 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "İstinye ŞH. (Arabalı Vapur)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9731077113, 41.0182684978 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Eminönü ŞH. (Galata)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1273130337, 40.8745379768 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Büyükada Mavi Marmara"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.5633034448, 41.0153861952 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Büyükçekmece Turyol"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.054705, 41.0811012532 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Aşiyan ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.944595839, 41.0647374012 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Santral ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9481665072, 41.058064886 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Miniatürk ŞH"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9456450252, 41.0612404196 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Evlendirme Dairesi ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9399921382, 41.0475496997 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Sütlüce Seyrüsefa"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0272421313, 41.0470507065 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Ortaköy Dentur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9379348088, 41.0470919948 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Eyüp Seyrüsefa"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9352439801, 41.0505907491 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Teleferik ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0100612094, 41.0109723712 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Harem İDO Feribot"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1008793573, 40.8778261334 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Heybeliada İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1279760767, 40.8757720135 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Büyükada ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9936851377, 41.0332025819 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kabataş ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0101486812, 41.0413447937 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Beşiktaş İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0901888275, 41.1343416385 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Beykoz İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9688757507, 41.019498916 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Eminönü Haliç ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0910438529, 41.134582088 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Beykoz Beyden"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0939736929, 40.952299269 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Bostancı Mavi Marmara"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0706015671, 40.8811465698 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Burgazada ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0555378642, 40.9105737696 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kınalıada ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.3023736735, 40.814821298 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Tuzla İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1271135048, 40.8743776514 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Büyükada Prenstur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8780368798, 40.9726236454 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Bakırköy Turyol"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1002092269, 40.8787098477 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Heybeliada Prenstur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.2361292632, 40.875054589 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Pendik İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1878571233, 40.8870662045 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kartal İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.5782266879, 41.0180308825 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Büyükçekmece Marina (İDO)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1284322671, 40.9181741092 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Maltepe İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1868362807, 40.8867011608 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kartal Prenstur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1006308124, 40.8780094125 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Heybeliada Mavi Marmara"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1000893025, 40.8789330517 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Heybeliada Turyol"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9824375301, 41.0035094566 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Ahırkapı ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9765694913, 41.0168521648 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Sirkeci BUDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.129063422, 40.9173300327 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Maltepe ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0697738824, 40.8802831063 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Burgazada Mavi Marmara"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9526982932, 41.0349043692 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Haliçport İskelesi"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0250634293, 40.9789348056 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Moda ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0575846542, 41.166269388 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Sarıyer ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9732871666, 41.021748404 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Karaköy Turyol"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.8781017718, 40.9730774124 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Bakırköy İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0582283911, 41.0745622736 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kandilli ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0256855144, 41.0471764118 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Ortaköy ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0710605061, 41.1216401946 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Yeniköy ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0613132274, 41.1132669148 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "İstinye ŞH. (Beyden)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0178289666, 40.996178541 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Haydarpaşa ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9378306667, 41.0473149641 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Eyüp ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9765707069, 41.0217608047 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Karaköy ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9406835996, 41.0466380307 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Sütlüce ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.944816008, 41.0408057824 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Ayvansaray ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.952664216, 41.0309808513 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Fener ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0929132164, 40.9523023715 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Bostancı İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0665429955, 41.0832877806 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Anadolu Hisarı ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0434343512, 41.06677788 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Arnavutköy ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9564284605, 41.001957534 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Yenikapı İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0149659918, 41.0277715063 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Üsküdar ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0652582174, 41.1003096605 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kanlıca ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0561305502, 41.103060584 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Emirgan ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0445421884, 41.0450375271 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Beylerbeyi ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0940577937, 40.9514859167 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Bostancı ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0577665375, 41.1671487307 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Sarıyer İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0445507448, 41.076320062 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Bebek ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0056554004, 41.0399527438 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Beşiktaş ŞH. (Barbaros)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0514175572, 41.0510321851 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Çengelköy ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1419245982, 40.8531017906 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Sedef Adası ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0204518357, 40.9913423801 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kadıköy Balon Turyol"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0216222908, 40.9916827412 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kadıköy ŞH. (Eski)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1020486584, 40.8770724217 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Heybeliada ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0078976222, 41.0413435461 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Beşiktaş Dentur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.9751598563, 41.0175457041 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Eminönü ŞH. (Evliya Çelebi)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0463053027, 41.1607334741 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Büyükdere ŞH."
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.015867984, 41.0281091336 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Üsküdar Dentur"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 28.970421879, 41.0188235937 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Eminönü Turyol"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0164448929, 41.0288618545 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Üsküdar Turyol"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.1256027397, 40.8743706039 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Büyükada İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0557865586, 40.9103850455 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Kınalıada İDO"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 29.0698691683, 40.8814737132 ]
+			},
+			"properties" : {
+				"ISKELE_AD" : "Burgazada İDO"
+			}
+		}
+	]
+}
